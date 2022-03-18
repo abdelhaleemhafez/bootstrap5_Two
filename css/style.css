@@ -443,7 +443,7 @@
 /* End testimonials*/
 /* Start stylish */
 .stylish {
-    background-image: url(/imgs/stylish.png);
+    background-image: url(../imgs/stylish.png);
     background-size: cover;
     min-height: 320px;
 }
